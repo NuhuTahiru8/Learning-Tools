@@ -88,8 +88,7 @@
 - [Crypto-Gram Security Podcast](http://crypto-gram.libsyn.com/)
 - [The Privacy, Security and OSINT Show](https://inteltechniques.com/podcast.html)
 
-##                Give a star if you find it usefull
+###                Give a star if you find it usefull
 ## Note: Everything You find here should be tested in your own Lab and network.
-## If i was to share a secrite, i think this would by my secrite!
 
 
