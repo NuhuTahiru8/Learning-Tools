@@ -1,2 +1,95 @@
-# Learning-Tools
-My learning Resources
+# Learning Tools
+## Blogs, YouTube Channels, Twitch Streamers, and Podcasts
+
+## Cyber Security Blogs to Follow
+
+- [Ars Technica ](https://arstechnica.com) 
+- [Becoming a Hacker](https://becomingahacker.org)
+- [Bruce Schneier's Blog](https://www.schneier.com)
+- [CIO](https://www.cio.com/category/security)
+- [Cisco Security Blog](https://blogs.cisco.com/security)
+- [CSO Online ](https://www.csoonline.com)
+- [Cyber Defense Magazine ](https://www.cyberdefensemagazine.com/)
+- [cyberscoop ](https://www.cyberscoop.com/)
+- [Darknet ](https://www.darknet.org.uk/)
+- [Dark Reading ](http://www.darkreading.com/)
+- [Data Breaches ](https://www.databreaches.net/)
+- [Decipher ](https://duo.com/decipher/)
+- [Didier Stevens Blog ](https://blog.didierstevens.com/)
+- [Epic ](https://epic.org/)
+- [Errata Security ](https://blog.erratasec.com/)
+- [Exploit Databse ](https://www.exploit-db.com/)
+- [F-Secure Safe & Savvy Blog ](http://safeandsavvy.f-secure.com)
+- [FireEye Blog ](https://www.fireeye.com/blog.html)
+- [Fox IT Security Blog ](http://blog.fox-it.com)
+- [Google Online Security Blog ](https://googleonlinesecurity.blogspot.ro)
+- [Graham Cluley ](https://www.grahamcluley.com)
+- [Hack Read ](https://www.hackread.com/)
+- [Heimdal Security Blog ](https://heimdalsecurity.com/blog/)
+- [Help Net Security ](https://www.net-security.org)
+- [Information Security Buzz ](https://www.informationsecuritybuzz.com/)
+- [InfoSecurity Magazine ](http://www.infosecurity-magazine.com)
+- [Kaspersky Lab’s Securelist ](https://securelist.com)
+- [Kaspersky Lab’s ThreatPost ](https://threatpost.com)
+- [KnowBe4 Blog ](https://blog.knowbe4.com/)
+- [Krebs on Security](https://krebsonsecurity.com)
+- [Malware Must Die](https://blog.malwaremustdie.org)
+- [Malwarebytes Labs ](https://blog.malwarebytes.org)
+- [Mashable ](http://mashable.com/category/cybersecurity)
+- [McAfee security blog ](http://blogs.mcafee.com)
+- [Microsoft Malware Protection Center ](http://blogs.technet.com/b/mmpc)
+- [Motherboard Vice ](http://motherboard.vice.com/en_us)
+- [Naked Security ](https://nakedsecurity.sophos.com)
+- [OpenDNS (Cisco Umbrella) Blog ](https://blog.opendns.com)
+- [OWASP -Not a blog, but a must -  ](https://www.owasp.org)
+- [Packet Storm Security ](https://packetstormsecurity.com/)
+- [Paul’s Security Weekly ](http://securityweekly.com)
+- [PCMag’s Security Watch ](http://securitywatch.pcmag.com)
+- [Peerlyst ](https://www.peerlyst.com)
+
+
+## Cybersecurity YouTube Channels
+- [AppSec Village](https://www.youtube.com/c/appsecvillage)
+- [BlackHills InfoSec](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
+- [DEF CON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+- [Jason Haddix](https://www.twitch.tv/nahamsec)
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+- [Red Team Village](https://www.youtube.com/redteamvillage)
+- [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+- [The Art of Hacking](https://www.youtube.com/theartofhacking)
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+
+## Cybersecurity Twitch channels
+- [Red Team Village](https://twitch.tv/redteamvillage)
+- [Nahamsec](https://www.twitch.tv/nahamsec)
+- [Blue Team Village](https://www.twitch.tv/blueteamvillage)
+- [IoT Village](https://www.twitch.tv/iotvillage)
+- [BugCrowd](https://www.twitch.tv/bugcrowd)
+- [HackerOne](https://www.twitch.tv/hackeronetv)
+- [The Cyber Mentor](https://www.twitch.tv/thecybermentor)
+
+## Cybersecurity Podcasts
+- [DarkNet Diaries](https://darknetdiaries.com/)
+- [Security Weekly](https://securityweekly.com/)
+- [Risky Business](https://risky.biz/netcasts/risky-business/)
+- [Firewalls Don’t Stop Dragons](https://firewallsdontstopdragons.com/podcast/)
+- [The Unsupervised Learning Podcast](https://danielmiessler.com/podcast/#gs.=RDc3aY)
+- [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/)
+- [Smashing Security](https://www.smashingsecurity.com/)
+- [The Cyberwire](https://thecyberwire.com/)
+- [The CyberJungle](http://www.thecyberjungle.com/)
+- [Beer with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
+- [Talos Takes](https://talosintelligence.com/podcasts/shows/talos_takes)
+- [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
+- [Crypto-Gram Security Podcast](http://crypto-gram.libsyn.com/)
+- [The Privacy, Security and OSINT Show](https://inteltechniques.com/podcast.html)
+
+##                Give a star if you find it usefull
+## Note: Everything You find here should be tested in your own Lab and network.
+## If i was to share a secrite, i think this would by my secrite!
+
+
